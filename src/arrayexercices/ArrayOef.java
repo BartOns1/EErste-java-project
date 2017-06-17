@@ -2,7 +2,8 @@
  * Created by vdabcursist on 14/06/2017.
  */
 
-import java.util.ArrayList;
+package arrayexercices;
+
 import java.util.Arrays;
 import java.util.Scanner;
 public class ArrayOef {
